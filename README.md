@@ -13,7 +13,7 @@ y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los s
 
 df = pd.read_csv('/kaggle/input/hotel-booking-demand/hotel_bookings.csv')
 
-## Estructura del proyecto (Tener presente)
+## Estructura del proyecto
 |
 +-  README-md
 +-  PROYECTO_ENTREGA1.PDF
