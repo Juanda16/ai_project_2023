@@ -14,13 +14,12 @@ y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los s
 df = pd.read_csv('/kaggle/input/hotel-booking-demand/hotel_bookings.csv')
 
 ## Estructura del proyecto
-|
-+-  README-md
-+-  PROYECTO_ENTREGA1.PDF
-+-  PROYECTO_ENTREGA2.PDF
-+-  01 - exploración de datos.ipynb
+-  README-md
+-  PROYECTO_ENTREGA1.PDF
+-  PROYECTO_ENTREGA2.PDF
+-  01 - exploración de datos.ipynb
 
 ## Videos de las entregas
 
-- [video uno] (https://drive.google.com/file/d/1nKglD0IX-u1BL7Sy04732tmabQ-3vod9/view?usp=sharing)
+- [video uno](https://drive.google.com/file/d/1nKglD0IX-u1BL7Sy04732tmabQ-3vod9/view?usp=sharing)
 
