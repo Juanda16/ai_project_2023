@@ -18,6 +18,7 @@ df = pd.read_csv('/kaggle/input/hotel-booking-demand/hotel_bookings.csv')
 +-  README-md
 +-  PROYECTO_ENTREGA1.PDF
 +-  PROYECTO_ENTREGA2.PDF
++-  01 - exploración de datos.ipynb
 
 ## Videos de las entregas
 
